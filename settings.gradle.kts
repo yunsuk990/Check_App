@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Check_App"
 include(":app")
- 
+include(":presentation")
+include(":domain")
+include(":data")
