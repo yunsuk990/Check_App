@@ -1,8 +1,7 @@
 # Check_Percentage 이름 궁합
 
-## 🎯 Use stack & skill
-- Kotlin 100%
-- Kotlin DSL
+## 🎯 Stack
+- Kotlin
 - Firebase RTDB
 - Firestore
 - MVVM
