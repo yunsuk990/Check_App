@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67232570931",
+    "project_id": "check-app-c7435",
+    "storage_bucket": "check-app-c7435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67232570931:android:7c0c58b3c0cdec2e404d46",
+        "android_client_info": {
+          "package_name": "com.example.check_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-HRDVisDnA7rAZ7hgg7OJk2t5oMNt8H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
